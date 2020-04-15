@@ -1,0 +1,42 @@
+[
+    {
+        "id": 1,
+        "name": "RxSwift",
+        "url": "https://github.com/ReactiveX/RxSwift",
+        "description": "Reactive Programming in Swift",
+        "iconName": "RxSwift",
+        "organization": true
+    },
+    {
+        "id": 2,
+        "name": "Quick",
+        "url": "https://github.com/Quick/Quick",
+        "description": "The Swift (and Objective-C) testing framework",
+        "iconName": "Quick",
+        "organization": true
+    },
+    {
+        "id": 3,
+        "name": "Alamofire",
+        "url": "https://github.com/Alamofire/Alamofire",
+        "description": "Elegant HTTP Networking in Swift",
+        "iconName": "Alamofire",
+        "organization": true
+    },
+    {
+        "id": 4,
+        "name": "Moya",
+        "url": "https://github.com/Moya/Moya",
+        "description": "Network abstraction layer written in Swift.",
+        "iconName": "Moya",
+        "organization": true
+    },
+    {
+        "id": 5,
+        "name": "GitTime",
+        "url": "https://github.com/87kangsw/GitTime",
+        "description": "GitHub working time - GitTime",
+        "iconName": "GitTime",
+        "organization": false
+    }
+]
